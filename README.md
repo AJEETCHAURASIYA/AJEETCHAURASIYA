@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajeet Chaurasiya</h1>
-<h3 align="center">Aspiring Data Enthusiast | Entry-Level Web Developer | Seeking Opportunities to Learn and Grow.</h3>
+<h3 align="center">Aspiring Data Enthusiast | Entry-Level Web Developer and Machine Learning Engineer | Seeking Opportunities to Learn and Grow.</h3>
 <img align="center" alt="Coding" width="100vw" src="https://media4.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AJEETCHAURASIYA&label=Profile%20views&color=0e75b6&style=flat" alt="AJEETCHAURASIYA" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AJEETCHAURASIYA" alt="AJEETCHAURASIYA" /></a> </p>
@@ -7,11 +7,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Django Full Stack Web Development**
+- 🌱 I have learned **Django Full Stack Web Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at (github.com/AJEETCHAURASIYA)
 
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Full Stack Web Development and Machine Learning**
 
 - 📫 How to reach me **ajeetsofra@gmail.com**
 
