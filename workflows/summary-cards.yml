@@ -1,0 +1,22 @@
+# Builds the stats cards (profile, stats, languages, productive time) into profile-summary-card-output/.
+# Self-generated, so they keep working when public stats services are rate-limited.
+name: Generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
